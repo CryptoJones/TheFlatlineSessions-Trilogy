@@ -1,13 +1,13 @@
 # The Flatline Sessions — Trilogy
 
-Three point-and-click adventure games walking William Gibson's Sprawl trilogy,
+Three point-and-click adventure games inspired by a famous cyberpunk trilogy,
 built in Godot, each with an original lo-fi soundtrack.
 
 | # | Game | Code | Play | Soundtrack |
 |---|------|------|------|------------|
 | I | **The Flatline Sessions** (*Neuromancer*) | [neuromancer-godot](https://github.com/CryptoJones/neuromancer-godot) | [itch.io](https://cryptojones.itch.io/the-flatline-sessions) | [SoundCloud](https://soundcloud.com/as30p/sets/the-flatline-sessions) |
-| II | **The Flatline Sessions II** (*Count Zero*) | [TheFlatlineSessionsII](https://github.com/CryptoJones/TheFlatlineSessionsII) | *itch page coming soon* | *SoundCloud upload coming soon* |
-| III | **The Flatline Sessions III** (*Mona Lisa Overdrive*) | [TheFlatlineSessionsIII](https://github.com/CryptoJones/TheFlatlineSessionsIII) | *itch page coming soon* | *SoundCloud upload coming soon* |
+| II | **The Flatline Sessions II: Count Binary** | [TheFlatlineSessionsII](https://github.com/CryptoJones/TheFlatlineSessionsII) | *itch page coming soon* | *SoundCloud upload coming soon* |
+| III | **The Flatline Sessions III: Mona Lisa Underdrive** | [TheFlatlineSessionsIII](https://github.com/CryptoJones/TheFlatlineSessionsIII) | *itch page coming soon* | *SoundCloud upload coming soon* |
 
 ## Related
 
