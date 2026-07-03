@@ -6,7 +6,7 @@ built in Godot, each with an original lo-fi soundtrack.
 | # | Cover | Game | Code | Play | Soundtrack |
 |---|-------|------|------|------|------------|
 | I | <img src="docs/covers/the-flatline-sessions.jpg" width="72" alt="The Flatline Sessions cover art"> | **The Flatline Sessions** (*Neuromancer*) | [neuromancer-godot](https://github.com/CryptoJones/neuromancer-godot) | [itch.io](https://cryptojones.itch.io/the-flatline-sessions) | [SoundCloud](https://soundcloud.com/as30p/sets/the-flatline-sessions) |
-| II | <img src="docs/covers/the-flatline-sessions-ii-count-binary.jpg" width="72" alt="The Flatline Sessions II: Count Binary cover art"> | **The Flatline Sessions II: Count Binary** | [TheFlatlineSessionsII](https://github.com/CryptoJones/TheFlatlineSessionsII) | *itch page coming soon* | *SoundCloud upload coming soon* |
+| II | <img src="docs/covers/the-flatline-sessions-ii-count-binary.jpg" width="72" alt="The Flatline Sessions II: Count Binary cover art"> | **The Flatline Sessions II: Count Binary** | [TheFlatlineSessionsII](https://github.com/CryptoJones/TheFlatlineSessionsII) | *itch page coming soon* | [SoundCloud](https://soundcloud.com/as30p/sets/the-flatline-sessions-ii-count) |
 | III | <img src="docs/covers/the-flatline-sessions-iii-mona-lisa-underdrive.jpg" width="72" alt="The Flatline Sessions III: Mona Lisa Underdrive cover art"> | **The Flatline Sessions III: Mona Lisa Underdrive** | [TheFlatlineSessionsIII](https://github.com/CryptoJones/TheFlatlineSessionsIII) | *itch page coming soon* | *SoundCloud upload coming soon* |
 
 ## Related
