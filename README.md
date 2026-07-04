@@ -11,6 +11,10 @@ built in Godot, each with an original lo-fi soundtrack.
 
 ## Related
 
+- [TFS-Visual-Novel-Tools](https://github.com/CryptoJones/TFS-Visual-Novel-Tools) — the
+  book-agnostic, Apache-2.0 toolkit these games are built on: a data-driven Godot
+  adventure engine (rooms, dialog, inventory, autosave) plus an art-book generator,
+  for turning any book you own into an illustrated point-and-click adventure.
 - [TheFlatlineSessions](https://github.com/CryptoJones/TheFlatlineSessions) — the
   pure-Python lo-fi ASCII-art "study with me" movie engine that gave the series
   its name (and its sound).
